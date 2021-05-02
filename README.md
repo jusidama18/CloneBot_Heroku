@@ -29,12 +29,6 @@ Note : there are hidden features, check at the source code of the bot to find th
 ### ⚠ You need [service accounts (sa)](https://telegra.ph/How-to-create-and-use-service-accounts-sa-03-31) to use the bot
 <br/><br/>
 
-# How to deploy in Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CrysTalesiaS/MirrorX)
-
-Hit the deploy to heroku button and follow the further instructions in the screen:
-
 ## 💠 Host the bot on your computer
 
 --> https://github.com/MsGsuite/CloneBot
